@@ -28,7 +28,7 @@ public class Jurnal1{
 	}
 	l-=2;
 	 
-	System.out.println("");
+	System.out.println("0");
 	}
 	 
 	}
